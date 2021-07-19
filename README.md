@@ -1,6 +1,6 @@
 ## About This Project
 
-Python Projects and Assignments that were done while studying at Ogden Weber Technical College.
+Python Projects and Assignments that were done while studying at [Ogden Weber Technical College](https://www.otech.edu/).
 
 ---
 
